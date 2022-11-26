@@ -22,3 +22,30 @@ Python'da değişkenlere veri ataması yaparken kullanırız.
 | //=      | x //= y   | x = x // y     |
 +----------+-----------+----------------+
 """
+
+a = 2
+b = 3
+c = 4
+
+x, y, z, = 5, 6, 7
+print(x, y, z)
+
+
+
+x, y, z = y, z, x
+
+print(x, y, z)
+
+x = x + 10
+y += 10
+print(x, y)
+
+
+
+
+x = x - 5
+y -= 5
+print(x, y)
+
+
+

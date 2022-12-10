@@ -1,0 +1,34 @@
+for sayi in  range(51):
+    print("python", end="-", file=open("log.txt", "w"))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

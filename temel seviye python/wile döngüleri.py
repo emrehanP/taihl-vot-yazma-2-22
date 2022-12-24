@@ -18,7 +18,7 @@
 
 import xlrd
 
-ck = xlrd.open_workbook("veriler/WorldCupPlayers.xls")
+ck = xlrd.open_workbook("../veriler/WorldCupPlayers.xls")
 
 cs = ck.sheet_by_index(0)
 
